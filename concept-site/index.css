@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+h1 { 
+    text-shadow: 1px 1px 1px #ccc;
+}
+#features{ 
+    /* box-shadow: 0 0 1em 1em #ccc; */
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+body { 
+    background: url(img/vintage-leaves.png) repeat 0 0;
+    /* text-align: center;  */
+}
+
+div.screenshots h2{
+    margin: 1.66%;
+    text-transform: uppercase;
+    /* border-bottom: 2px solid #f1f1f1; */
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+img{
+    width: 30%;
+    float: right;
+    margin: 1.66%;
+}
